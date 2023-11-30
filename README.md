@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahban07
 - 👀 I’m interested in C++ and Java
-- 🌱 I’m currently learning Web devlopment
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
 
